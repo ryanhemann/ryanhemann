@@ -18,7 +18,7 @@
 - [Linux Essentials, Linux Professional Institute](https://imgur.com/)
 - [Certified Cloud Practitioner, Amazon Web Services](https://imgur.com/)
 - [Azure Fundamentals, Microsoft](https://imgur.com/)
-- [ICS-100, FEMA](https://imgur.com/)
+- [National Incident Management System (NIMS): ICS-100, FEMA](https://imgur.com/)
 
 <h2>📺 YouTube Videos</h2>
 
