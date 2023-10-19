@@ -13,11 +13,11 @@
 
 <h2>📄 Certifications</h2>
 
-- [Security+ CE, CompTIA](https://imgur.com/)
+- [Security+ CE, CompTIA](https://imgur.com/a/lhb9X7z)
 - [Blue Team Level 1, Security Blue Team](https://imgur.com/)
-- [Linux Essentials, Linux Professional Institute](https://imgur.com/)
-- [Certified Cloud Practitioner, Amazon Web Services](https://imgur.com/)
-- [Azure Fundamentals, Microsoft](https://imgur.com/)
+- [Linux Essentials, Linux Professional Institute](https://imgur.com/a/5XBxIkN)
+- [Certified Cloud Practitioner, Amazon Web Services](https://imgur.com/a/eaEa4FX)
+- [Azure Fundamentals, Microsoft](https://imgur.com/a/OMfoDzx)
 - [National Incident Management System (NIMS): ICS-100, FEMA](https://imgur.com/)
 
 <h2>📺 YouTube Videos</h2>
