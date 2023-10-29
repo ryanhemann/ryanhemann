@@ -3,7 +3,7 @@
 <h2>💻 Cybersecurity Projects:</h2>
 
 - <b>Phishing Email Analysis</b>
-  - [Analyzing Phishing Emails](https://github.com/ryanhemann/analyzing-phishing-emails)
+  - [Analyzing Phishing Emails and Generating a Report](https://github.com/ryanhemann/analyzing-phishing-emails)
 - <b>Threat Hunting</b>
   - [Threat Hunting](https://github.com/ryanhemann/threat-hunting)
 - <b>PowerShell</b>
