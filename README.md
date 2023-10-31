@@ -23,11 +23,10 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Analzying Phishing Emails & Extracting Artifacts](https://www.youtube.com/)
-- [Utilizing Wannabrowser](https://www.youtube.com/)
+- [Email PwnCheck, A Script That Checks For Breached Email Accounts](https://www.youtube.com/)
+- [Multi-Channel Indentity Verification, Verify Employees Are Who They Say They Are](https://www.youtube.com/)
 - [Utilitizing Phishtool](https://www.youtube.com/)
-- [Utilitizing](https://www.youtube.com/)
-- [Utilizing](https://www.youtube.com/)
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -35,17 +34,4 @@
 
 [linkedin]: https://linkedin.com/in/ryanhemann
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
