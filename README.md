@@ -29,7 +29,7 @@
 
 <h2>🎥 Bonus Content</h2>
 
-- [Check out my public speaking and content creation while employed at Escape Outdoors](https://sites.google.com/view/ryanhemann/home)
+- [Public Speaking and Content Creation While Employed at Escape Outdoors](https://sites.google.com/view/ryanhemann/home)
 
 <h2> 🤳 Connect with me:</h2>
 
