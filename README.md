@@ -27,6 +27,9 @@
 - [Multi-Channel Indentity Verification, Verify Employees Are Who They Say They Are](https://www.youtube.com/)
 - [Utilitizing Phishtool](https://www.youtube.com/)
 
+<h2>🎥 Bonus Content</h2>
+
+- [Check out my public speaking and content creation while employed at Escape Outdoors](https://sites.google.com/view/ryanhemann/home)
 
 <h2> 🤳 Connect with me:</h2>
 
