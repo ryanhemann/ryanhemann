@@ -6,8 +6,8 @@
   - [Analyzing Phishing Emails and Generating a Report](https://github.com/ryanhemann/analyzing-phishing-emails)
 - <b>Threat Hunting</b>
   - [Threat Hunting](https://github.com/ryanhemann/threat-hunting)
-- <b>PowerShell</b>
-  - [Hash Checking Tool](https://github.com/ryanhemann/hash-checking-tool)
+- <b>OS Hardening</b>
+  - [Windows 10 & 11 Hardening](https://github.com/ryanhemann/windows-10-11-hardening)
 - <b>Python</b>
   - [Multi-Channel Indentity Verification Tool](https://github.com/ryanhemann/multi-channel-identity-verification-tool)
   - [Email PwnCheck Tool](https://github.com/ryanhemann/pwn-check-automator)
