@@ -4,10 +4,6 @@
 
 - <b>Phishing Email Analysis</b>
   - [Analyzing Phishing Emails and Generating a Report](https://github.com/ryanhemann/analyzing-phishing-emails)
-- <b>Threat Hunting</b>
-  - [Threat Hunting](https://github.com/ryanhemann/threat-hunting)
-- <b>OS Hardening</b>
-  - [Windows 10 & 11 Hardening](https://github.com/ryanhemann/windows-10-11-hardening)
 - <b>Python</b>
   - [Multi-Channel Indentity Verification Tool](https://github.com/ryanhemann/multi-channel-identity-verification-tool)
   - [Email PwnCheck Tool](https://github.com/ryanhemann/pwn-check-automator)
@@ -15,17 +11,11 @@
 <h2>📄 Certifications</h2>
 
 - [Security+ CE, CompTIA](https://imgur.com/a/lhb9X7z)
-- [Blue Team Level 1, Security Blue Team](https://imgur.com/)
+- [Blue Team Level 1, Security Blue Team (Expected Jan. 2024)](https://imgur.com/)
 - [Linux Essentials, Linux Professional Institute](https://imgur.com/a/5XBxIkN)
 - [Certified Cloud Practitioner, Amazon Web Services](https://imgur.com/a/eaEa4FX)
 - [Azure Fundamentals, Microsoft](https://imgur.com/a/OMfoDzx)
 - [National Incident Management System (NIMS): ICS-100, FEMA](https://imgur.com/)
-
-<h2>📺 YouTube Videos</h2>
-
-- [Email PwnCheck, A Script That Checks For Breached Email Accounts](https://www.youtube.com/)
-- [Multi-Channel Indentity Verification, Verify Employees Are Who They Say They Are](https://www.youtube.com/)
-- [Utilitizing Phishtool](https://www.youtube.com/)
 
 <h2>🎥 Bonus Content</h2>
 
