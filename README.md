@@ -2,8 +2,6 @@
 
 <h2>💻 Cybersecurity Projects:</h2>
 
-- <b>Phishing Email Analysis</b>
-  - [Analyzing Phishing Emails and Generating a Report](https://github.com/ryanhemann/analyzing-phishing-emails)
 - <b>Python</b>
   - [Multi-Channel Indentity Verification Tool](https://github.com/ryanhemann/multi-channel-identity-verification-tool)
   - [Email PwnCheck Tool](https://github.com/ryanhemann/pwn-check-automator)
