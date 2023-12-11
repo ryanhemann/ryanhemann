@@ -8,7 +8,7 @@
   - [Windows Artifacts - Recycle Bin](https://github.com/ryanhemann/)
   - [Retreiving Browser Information Utilizing KAPE, Browser History Capture, and Browser History Viewer](https://github.com/ryanhemann/)
 
- - <b>Linux Artifacts (WIP)</b>
+- <b>Linux Artifacts (WIP)</b>
   - [Linux Artifacts - Passwd and Shadow](https://github.com/ryanhemann/)
   - [Linux Artifacts - /Var/Lib and /Var/Log](https://github.com/ryanhemann/)
   - [Linux Artifacts - User Files](https://github.com/ryanhemann/)
