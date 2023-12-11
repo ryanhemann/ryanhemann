@@ -2,6 +2,18 @@
 
 <h2>💻 Cybersecurity Projects:</h2>
 
+- <b>Windows Artifacts (WIP)</b>
+  - [Windows Artifacts - Programs: LNK, Prefetch, and Jump List Files](https://github.com/ryanhemann/)
+  - [Windows Artifacts - Logon Eveents](https://github.com/ryanhemann/)
+  - [Windows Artifacts - Recycle Bin](https://github.com/ryanhemann/)
+  - [Retreiving Browser Information Utilizing KAPE, Browser History Capture, and Browser History Viewer](https://github.com/ryanhemann/)
+
+ - <b>Linux Artifacts (WIP)</b>
+  - [Linux Artifacts - Passwd and Shadow](https://github.com/ryanhemann/)
+  - [Linux Artifacts - /Var/Lib and /Var/Log](https://github.com/ryanhemann/)
+  - [Linux Artifacts - User Files](https://github.com/ryanhemann/)
+  - [Linux Artifacts - Memory](https://github.com/ryanhemann/)
+    
 - <b>Python</b>
   - [Multi-Channel Indentity Verification Tool](https://github.com/ryanhemann/multi-channel-identity-verification-tool)
   - [Email PwnCheck Tool](https://github.com/ryanhemann/pwn-check-automator)
